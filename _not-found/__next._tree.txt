@@ -1,4 +1,4 @@
-:HL["/sonojs-landing-03/_next/static/chunks/26mva122oeflq.css","style"]
+:HL["/sonojs-landing-03/_next/static/chunks/2r5at7z22xf_h.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"oRzwi03qdt8_gCeLz-sUz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_4cluTEzKA1oi6nZwv7Je","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
